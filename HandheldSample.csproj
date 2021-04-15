@@ -9,7 +9,7 @@
     <PackageReference Include="SixLabors.ImageSharp" Version="1.0.3" />
     <PackageReference Include="SkiaSharp" Version="2.80.2" />
     <PackageReference Include="System.Management" Version="5.0.0" />
-    <PackageReference Include="TreadReader" Version="1.2.11" />
+    <PackageReference Include="TreadReader" Version="1.2.12" />
     <PackageReference Include="Xam.Plugin.Connectivity" Version="3.2.0" />
   </ItemGroup>
 
